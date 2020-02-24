@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-17/issues"
   },
-  "homepage": "https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-17#readme"
+  "homepage": "https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-17#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "faker": "^4.1.0",
+    "jest": "^24.9.0",
+    "path": "^0.12.7"
+  }
 }
